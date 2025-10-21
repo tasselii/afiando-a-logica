@@ -81,21 +81,6 @@ Exemplos:
 
 ---
 
-## 🧭 Organização do Repositório
-
-```
-📂 src/
- ┣ 📁 aritmetica/
- ┣ 📁 selecao/
- ┣ 📁 repeticao/
- ┣ 📁 vetores/
- ┗ 📁 strings/
-```
-
-Cada pasta contém os exercícios resolvidos, numerados conforme o tema.
-
----
-
 ## 🚀 Como Executar
 
 1. Clone o repositório  
