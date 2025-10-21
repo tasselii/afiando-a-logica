@@ -131,8 +131,8 @@ Cada pasta contém os exercícios resolvidos, numerados conforme o tema.
 **Thiago Tasseli**  
 Desenvolvedor em formação | Treinando lógica e fundamentos em Java  
 📍 São Paulo – SP  
-💼 [LinkedIn](https://www.linkedin.com/in/thiagotasseli)  
-🐙 [GitHub](https://github.com/ThiagoTasseli)
+💼 [LinkedIn](https://www.linkedin.com/in/thiagotasseli-tech)  
+🐙 [GitHub](https://github.com/tasselii)
 
 ---
 
