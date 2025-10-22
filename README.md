@@ -81,6 +81,19 @@ Exemplos:
 
 ---
 
+## 🧭 Organização do Repositório
+
+```
+📂 src/
+ ┣ 📁 aritmetica/
+ ┣ 📁 selecao/
+ ┣ 📁 repeticao/
+ ┣ 📁 vetores_matrizes/
+ ┗ 📁 strings/
+```
+
+---
+
 ## 🚀 Como Executar
 
 1. Clone o repositório  
@@ -93,8 +106,8 @@ Exemplos:
    ```
 3. Compile e execute um exercício  
    ```bash
-   javac src/aritmetica/Exercicio01.java
-   java -cp src aritmetica.Exercicio01
+   javac src/aritmetica/aritmetica.Exercicio01.java
+   java -cp src aritmetica.aritmetica.Exercicio01
    ```
 
 ---
