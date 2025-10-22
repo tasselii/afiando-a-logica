@@ -15,9 +15,9 @@ public class Exercicio40 {
 
         String fraseInvertida = new StringBuilder(frase).reverse().toString();
 
-        System.out.println("\nFrase lida -> " + frase);
-        System.out.println("Frase invertida -> " + fraseInvertida);
-        System.out.println("Quantidade de palavras -> " + quantidade);
+        System.out.println("\nFrase lida: " + frase);
+        System.out.println("Frase invertida: " + fraseInvertida);
+        System.out.println("Quantidade de palavras: " + quantidade);
 
         scan.close();
     }
