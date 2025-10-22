@@ -119,8 +119,8 @@ Exemplos:
 | 1 | Aritmética Simples | ✅ Concluído |
 | 2 | Estruturas de Seleção | ✅ Concluído |
 | 3 | Estruturas de Repetição | ✅ Concluído |
-| 4 | Vetores e Matrizes | 🟡 Em andamento |
-| 5 | Strings e Manipulação de Texto | 🟢 Iniciando |
+| 4 | Vetores e Matrizes | ✅ Concluído |
+| 5 | Strings e Manipulação de Texto | ✅ Concluído  |
 
 ---
 
